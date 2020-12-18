@@ -12,7 +12,7 @@ There are five lectures, one final project and five assignments for this class.
 | CART Algorithm | Extra Trees Algorithm | Random Forests | Feature Importance in Trees | XGBoost, LightGBM and CatBoost |
 | Regularization | Bias-variance and Randomized Ensembles |  | Feature Importance in Random Forests |  |
 
-__Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project_dataset folder](https://github.com/aws-samples/aws-machine-learning-university-dte/tree/master/data/final_project_dataset). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-dte/blob/master/notebooks/final_project/DTE-FINAL-PROJECT.ipynb).
+__Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project_dataset folder](https://github.com/aws-samples/aws-machine-learning-university-dte/tree/main/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/final_project/DTE-FINAL-PROJECT.ipynb).
 
 ## YouTube
 Watch all Computer Vision class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
