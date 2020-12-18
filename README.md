@@ -15,7 +15,7 @@ There are five lectures, one final project and five assignments for this class.
 __Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project_dataset folder](https://github.com/aws-samples/aws-machine-learning-university-dte/tree/main/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/final_project/DTE-FINAL-PROJECT.ipynb).
 
 ## YouTube
-Watch all Computer Vision class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
+Watch all class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
 
 ## Contribute
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
