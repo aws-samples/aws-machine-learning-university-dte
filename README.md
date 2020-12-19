@@ -1,7 +1,12 @@
 ![logo](data/MLU_Logo.png)
-## Machine Learning University: Decision Trees and Ensemble Models Class
+## Machine Learning University: Decision Trees and Ensemble Methods Class
 
-This repository contains __slides__, __notebooks__, and __datasets__ for the __Machine Learning University (MLU) Decision Trees and Ensemble Models__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with tree based models, learn about widely used Machine Learning techniques and apply them to real-world problems.
+This repository contains __slides__, __notebooks__, and __datasets__ for the __Machine Learning University (MLU) Decision Trees and Ensemble Methods__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with tree based models, learn about widely used Machine Learning techniques and apply them to real-world problems.
+
+## YouTube
+Watch all class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
+
+[![Playlist](https://img.youtube.com/vi/DtX1hN0FRfk/0.jpg)](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p)
 
 ## Course Overview
 There are five lectures, one final project and five assignments for this class.
@@ -13,9 +18,6 @@ There are five lectures, one final project and five assignments for this class.
 | Regularization | Bias-variance and Randomized Ensembles |  | Feature Importance in Random Forests |  |
 
 __Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-dte/tree/main/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/final_project/DTE-FINAL-PROJECT.ipynb).
-
-## YouTube
-Watch all class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
 
 ## Contribute
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
