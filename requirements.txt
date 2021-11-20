@@ -1,6 +1,10 @@
 pip==21.3.1
 numpy==1.19.5
+pandas==1.1.5
 matplotlib==3.3.4
-mxnet==1.8.0
+scikit-learn==0.24.2
+mxnet==1.8.0.post0
 catboost==0.26.1
 lightgbm==3.2.1
+ipykernel==5.5.6
+ipywidgets==7.6.3
