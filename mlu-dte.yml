@@ -1,4 +1,4 @@
-name: ml-dte
+name: mlu-dte
 dependencies:
   - python=3.9
   - pip
