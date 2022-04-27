@@ -19,6 +19,11 @@ There are five lectures, one final project and five assignments for this class.
 
 __Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-dte/tree/main/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/final_project/DTE-FINAL-PROJECT.ipynb).
 
+## Interactives/Visuals
+Interested in visual, interactive explanations of core machine learning concepts? Check out our [MLU-Explain articles](https://mlu-explain.github.io/) to learn at your own pace! 
+
+Including relevant articles for this course: [Decision Trees](https://mlu-explain.github.io/decision-tree/), [Random Forest](https://mlu-explain.github.io/random-forest/), and the [Bias Variance Tradeoff](https://mlu-explain.github.io/bias-variance/).
+
 ## Contribute
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
