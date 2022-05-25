@@ -10,12 +10,59 @@ Watch all class video recordings in this [YouTube playlist](https://www.youtube.
 
 ## Course Overview
 There are five lectures, one final project and five assignments for this class.
-| Lecture 1 | Lecture 2 | Lecture 3 | Lecture 4 | Lecture 5 |
-| :---: | :---: | :---: | :---: | :---: |
-| Decision Trees | Bias-variance trade-off | Bootstrapping | Random Forest Proximities | Boosting |
-| Impurity Functions | Error Decomposition | Bagging | Some use cases for Proximities | Gradient Boosting |
-| CART Algorithm | Extra Trees Algorithm | Random Forests | Feature Importance in Trees | XGBoost, LightGBM and CatBoost |
-| Regularization | Bias-variance and Randomized Ensembles |  | Feature Importance in Random Forests |  |
+
+Lecture 1
+
+| title | studio lab |
+| :---: | ---: |
+| Decision Trees | - |
+| Impurity Functions | - |
+| CART Algorithm | - |
+| Regularization | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_1/DTE-LECTURE-1-PRUNE.ipynb)|
+
+Lecture 2
+
+| title | studio lab |
+| :---: | ---: |
+| Bias-variance trade-off | - |
+| Error Decomposition | - |
+| Extra Trees Algorithm | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_2/DTE-LECTURE-2-TREE-VARIANCE.ipynb)|
+| Bias-variance and Randomized Ensembles | - |
+
+
+Lecture 3
+
+| title | studio lab |
+| :---: | ---: |
+| Boostrapping | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_3/DTE-LECTURE-3-BOOTSTRAP.ipynb)|
+| Bagging |Bagging [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_3/DTE-LECTURE-3-BAGGING-OVERFIT.ipynb) <br> tree correlation [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_3/DTE-LECTURE-3-TREE-CORRELATION.ipynb)|
+| Random Forests | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_3/DTE-LECTURE-3-RANDOM-FOREST.ipynb)|
+
+
+Lecture 4
+
+| title | studio lab |
+| :---: | ---: |
+| Random Forest Proximities | - |
+| Some use cases for Proximities | - |
+| Feature Importance in Trees | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_4/DTE-LECTURE-4-PERMUTATION-FEATURE-IMP.ipynb)|
+| Feature Importance in Random Forests |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_4/DTE-LECTURE-4-FEATURE-IMPORTANCE.ipynb) |
+
+
+Lecture 5
+
+| title | studio lab |
+| :---: | ---: |
+| Boosting | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_5/DTE-LECTURE-5-BOOSTING.ipynb)|
+| Gradient Boosting | - |
+| XGBoost, LightGBM and CatBoost | CatBoost [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_5/DTE-LECTURE-5-CATBOOST.ipynb) <br> LightGBM [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/lecture_5/DTE-LECTURE-5-LIGHTGBM.ipynb)|
+
+Final Project
+
+| title | studio lab |
+| :---: | ---: |
+| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/final_project/DTE-FINAL-PROJECT.ipynb)|
+
 
 __Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-dte/tree/main/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-dte/blob/main/notebooks/final_project/DTE-FINAL-PROJECT.ipynb).
 
