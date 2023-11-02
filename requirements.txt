@@ -1,4 +1,4 @@
-pip==21.3.1
+pip==23.3
 numpy==1.22.0
 pandas==1.1.5
 matplotlib==3.3.4
