@@ -1,15 +1,16 @@
 name: mlu-dte
 dependencies:
-  - python=3.9
+  - python=3.10
   - pip
   - pip:
-    - pip==21.3.1
-    - numpy==1.19.5
-    - pandas==1.1.5
-    - matplotlib==3.3.4
-    - scikit-learn==0.24.2
-    - mxnet==1.8.0.post0
-    - catboost==0.26.1
-    - lightgbm==3.2.1
-    - ipykernel==5.5.6
-    - ipywidgets==7.6.3
+    - pip==24.2
+    - torch==2.3.1
+    - torchtext==0.18.0
+    - nltk==3.9.1
+    - pandas==2.2.2
+    - scikit-learn>=1.5.0
+    - numpy==1.26.4
+    - matplotlib==3.8.4
+    - seaborn==0.13.2
+    - jupyter-server==2.14.2
+    - ipykernel==6.29.5
